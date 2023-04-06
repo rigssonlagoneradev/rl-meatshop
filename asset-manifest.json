@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rl-meatshop/static/css/main.35afe14b.css",
-    "main.js": "/rl-meatshop/static/js/main.9c53c9c3.js",
+    "main.js": "/rl-meatshop/static/js/main.b07b2023.js",
     "static/js/787.249967aa.chunk.js": "/rl-meatshop/static/js/787.249967aa.chunk.js",
     "static/media/cthigh.jpg": "/rl-meatshop/static/media/cthigh.a674fc3063d6b78b9b44.jpg",
     "static/media/chickenmeat.jpg": "/rl-meatshop/static/media/chickenmeat.5ad79b31f025971bdb13.jpg",
@@ -23,11 +23,11 @@
     "static/media/ploin.jpg": "/rl-meatshop/static/media/ploin.5f561ac4aa7bec8724f5.jpg",
     "index.html": "/rl-meatshop/index.html",
     "main.35afe14b.css.map": "/rl-meatshop/static/css/main.35afe14b.css.map",
-    "main.9c53c9c3.js.map": "/rl-meatshop/static/js/main.9c53c9c3.js.map",
+    "main.b07b2023.js.map": "/rl-meatshop/static/js/main.b07b2023.js.map",
     "787.249967aa.chunk.js.map": "/rl-meatshop/static/js/787.249967aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35afe14b.css",
-    "static/js/main.9c53c9c3.js"
+    "static/js/main.b07b2023.js"
   ]
 }
