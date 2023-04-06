@@ -12,12 +12,12 @@ function App() {
     <ShopContextProvider>
       <Router>
       <Navbar/>
+      <Homepage/>
       <Routes>
         <Route path="/" element={<Homepage/>}  />
         <Route path="/shop" element={<Shop/>} />
         <Route path="/cart" element={<Cart/>} />
       </Routes>
-
     </Router>
     </ShopContextProvider>
     
