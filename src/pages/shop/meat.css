@@ -1,0 +1,36 @@
+.title {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.prod-img {
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+}
+button.atc {
+    border-radius: 12px;
+    background-color: whitesmoke;
+    margin-left: 15px;
+    transition-duration: 0.8s;
+}
+button:hover {
+    background-color: greenyellow;
+    transition-duration: 0.8s;
+}
+
+.product-wrapper {
+    
+    display: inline-table;
+    margin: 5px 5px 5px 10px;
+    align-items: center;
+    text-align: center; 
+    justify-content: center;
+}
+.product-card {
+    border-radius: 15px;
+    transition-duration: 0.8s;
+    box-shadow: 5px 15px 10px 5px rgba(140, 142, 142, 0.99);
+}
+.product-body {
+    margin: 5px 5px 5px 5px;
+}

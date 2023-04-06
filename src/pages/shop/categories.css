@@ -1,0 +1,19 @@
+.category-wrapper {
+    display:inline-block;
+    transition: none;
+}
+.category-card {
+    transition-duration: 1s;
+    gap: 10px;
+}
+.c-images {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    margin: 5px 5px 5px;
+}
+.category-card:hover {
+
+    transition-duration: 0.8s;
+    transform: translateY(-10px);
+}

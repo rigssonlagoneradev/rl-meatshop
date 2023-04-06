@@ -1,0 +1,29 @@
+.hometxt {
+    text-align: center;
+    
+}
+.chickencategory {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+.cards {
+   
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.cards a {
+    text-decoration: none;
+}
+.cardname {
+    background-color: antiquewhite;
+    box-shadow: black 5px;
+    transition-duration: 0.8s;
+}
+.shop-btn {
+    margin-top: 10px;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    transition-duration: 0.8s;
+}
