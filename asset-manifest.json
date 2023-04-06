@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rl-meatshop/static/css/main.35afe14b.css",
+    "main.js": "/rl-meatshop/static/js/main.b07b2023.js",
+    "static/js/787.249967aa.chunk.js": "/rl-meatshop/static/js/787.249967aa.chunk.js",
+    "static/media/cthigh.jpg": "/rl-meatshop/static/media/cthigh.a674fc3063d6b78b9b44.jpg",
+    "static/media/chickenmeat.jpg": "/rl-meatshop/static/media/chickenmeat.5ad79b31f025971bdb13.jpg",
+    "static/media/cbreast.jpg": "/rl-meatshop/static/media/cbreast.e21d2f7e12f8e6a1cddb.jpg",
+    "static/media/beefmeat.jpg": "/rl-meatshop/static/media/beefmeat.e576c65e990b26e86939.jpg",
+    "static/media/cwings.jpg": "/rl-meatshop/static/media/cwings.c982fc008d87fddd15f4.jpg",
+    "static/media/porkmeat.jpg": "/rl-meatshop/static/media/porkmeat.aad7bd3c94d94174613f.jpg",
+    "static/media/bshank.jpg": "/rl-meatshop/static/media/bshank.f1a84f619892122907a8.jpg",
+    "static/media/pribs.jpg": "/rl-meatshop/static/media/pribs.291c613de2e8cee293c0.jpg",
+    "static/media/emptycart.png": "/rl-meatshop/static/media/emptycart.1eacdfde16ae109c0b6d.png",
+    "static/media/bribs.jpg": "/rl-meatshop/static/media/bribs.d742b5b7319d27e78264.jpg",
+    "static/media/boxtail.jpg": "/rl-meatshop/static/media/boxtail.e7ed7eb7bbd6b65ece40.jpg",
+    "static/media/bround.jpg": "/rl-meatshop/static/media/bround.fd9fa16cc2d725f210cc.jpg",
+    "static/media/bflank.jpg": "/rl-meatshop/static/media/bflank.e4b5c83070e1828864cf.jpg",
+    "static/media/brisket.jpg": "/rl-meatshop/static/media/brisket.b7d31aea16c853510fa2.jpg",
+    "static/media/clegs.jpg": "/rl-meatshop/static/media/clegs.8a4ddb58790e4b953d62.jpg",
+    "static/media/plegs.jpg": "/rl-meatshop/static/media/plegs.7caefac247bde6c32378.jpg",
+    "static/media/pshoulder.jpg": "/rl-meatshop/static/media/pshoulder.50c48eafb4b672683843.jpg",
+    "static/media/ploin.jpg": "/rl-meatshop/static/media/ploin.5f561ac4aa7bec8724f5.jpg",
+    "index.html": "/rl-meatshop/index.html",
+    "main.35afe14b.css.map": "/rl-meatshop/static/css/main.35afe14b.css.map",
+    "main.b07b2023.js.map": "/rl-meatshop/static/js/main.b07b2023.js.map",
+    "787.249967aa.chunk.js.map": "/rl-meatshop/static/js/787.249967aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35afe14b.css",
+    "static/js/main.b07b2023.js"
+  ]
+}
