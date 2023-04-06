@@ -1,12 +1,12 @@
 import React from 'react'
-import "./homepage.css";
+import "./initialpage.css";
 import {Link} from "react-router-dom";
 import { CATEGORIES } from './categories';
 import {Category} from "./pages/shop/category";
 
 
 
-export const Homepage = () => {
+export const Initialpage = () => {
   return (
     <div className='hometxt'>
       <h1> RL MeatShop </h1>

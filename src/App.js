@@ -4,7 +4,7 @@ import { Navbar } from './components/navbar';
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import {Shop} from "./pages/shop/shop";
 import {Cart} from "./pages/cart/cart";
-import {Homepage} from "./homepage";
+import {Initialpage} from "./initialpage";
 import { ShopContextProvider } from './context/shop-context';
 
 function App() {
@@ -12,9 +12,8 @@ function App() {
     <ShopContextProvider>
       <Router>
       <Navbar/>
-      <Homepage/>
       <Routes>
-        <Route path="/" element={<Homepage/>}  />
+        <Route path="/" element={<Initialpage/>}  />
         <Route path="/shop" element={<Shop/>} />
         <Route path="/cart" element={<Cart/>} />
       </Routes>
