@@ -7,10 +7,7 @@ import "./navbar.css";
 export const Navbar = () => {
   return (
     <div className='navbar'>
-      <div className='rl-logo'>
-      <h1> RL MeatShop </h1>
-      </div>
-      
+     
     <div className='links'>
         
         <Link to="/"> HomePage </Link>
